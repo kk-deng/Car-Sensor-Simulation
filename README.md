@@ -1,4 +1,4 @@
-# PitStop-Sensor
+# Car-Sensor-Simulation
 
 <a href="https://github.com/kk-deng/PitStop-Sensor/blob/main/Pitstop2.ipynb">Vehicle Suspension Simulation (Jupyter Notebook)</a>
 
